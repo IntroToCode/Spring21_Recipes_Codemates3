@@ -19,10 +19,10 @@ Food processor
 - Make dough by mixing dough ingredients in food processor
 - Preheat oven to 400 degrees Fahrenheit
 - Flatten dough into pizza tray
-- spread sauce
-- apply cheese
+- Spread sauce
+- Apply cheese
 - Apply toppings
-- place in oven for 45 min, let rest for 10 min before serving
+- Place in oven for 45 min, let rest for 10 min before serving
 
 ### Notes:
 
