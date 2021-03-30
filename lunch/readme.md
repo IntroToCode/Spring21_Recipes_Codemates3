@@ -6,8 +6,11 @@
 
 ## Ingredients:
 Dough (flour, yeast, water, salt, and olive oil)
+
 Sauce (marinara, pizza sauce, BBQ sauce, pesto, other?)
+
 Cheeses (mozzarella, cheddar, parmesan cheese, provolone, other?)
+
 Toppings (pepperoni, salami, peppers, sausage, mushrooms, anchovies, onions, others?)
 
 ## Equipment needed:
