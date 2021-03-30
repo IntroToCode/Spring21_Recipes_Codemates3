@@ -29,4 +29,10 @@ Food processor
 
 ### Notes:
 
+- Ideal toppings?
+- Right quantity of each ingredient? 
+
 ### Codemates #
+Fernando Moreno
+Dominic Djannesari
+Casey Smith
