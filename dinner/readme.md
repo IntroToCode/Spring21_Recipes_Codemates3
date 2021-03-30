@@ -32,7 +32,7 @@
 
 ### Notes:
 This should take less than 10 minutes, otherwise you are doing something wrong
-
+Optional: Serve with sour cream
 
 ### Codemates #
 -Fernando Moreno
