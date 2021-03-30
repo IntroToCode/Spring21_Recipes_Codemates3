@@ -5,25 +5,24 @@
 ## Time to prepare: 60 minutes
 
 ## Ingredients:
-Flour, dough ingredients
-Sauce (marinara, pizza sauce, BBQ sauce, other?)
-Cheeses (mozzarella, cheddar, others?)
-Toppings (pepperoni, peppers, sausage, mushrooms, anchovies, onions, others?)
+Dough (flour, yeast, water, salt, and olive oil)
+Sauce (marinara, pizza sauce, BBQ sauce, pesto, other?)
+Cheeses (mozzarella, cheddar, parmesan cheese, provolone, other?)
+Toppings (pepperoni, salami, peppers, sausage, mushrooms, anchovies, onions, others?)
 
 ## Equipment needed:
 Oven
-Oven pizza tray
-Mixing bowls
+14" oven pizza baking tray
 Food processor
 
 ## Steps for preparation:
-- Make dough
-- Preheat oven
+- Make dough by mixing dough ingredients in food processor
+- Preheat oven to 400 degrees Fahrenheit
 - Flatten dough into pizza tray
 - spread sauce
 - apply cheese
 - Apply toppings
-- place in oven
+- place in oven for 45 min, let rest for 10 min before serving
 
 ### Notes:
 
