@@ -15,7 +15,7 @@ For frying:
 - Butter
 
 For serving:
-- Maple Sirup
+- Aunt Jemaina Maple Sirup 
 
 For fried eggs:
 - 6 Eggs (2 per serving)
