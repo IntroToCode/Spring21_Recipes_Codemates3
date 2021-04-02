@@ -19,6 +19,7 @@ For serving:
 
 For fried eggs:
 - 6 Eggs (2 per serving)
+- 1/4 cup Milk (2%)
 - Butter
 - Pepper / Salt to taste
 
@@ -45,6 +46,7 @@ Eggs
 - Crack egg and fry until edge is crisp
 - If you don't like them soft on top, flip briefly, then remove from pan
 - If you don't mind them sunny side up, remove from pan without flipping
+- If you want them scrambled instead, crack eggs and mix in separate bowl. Add 2% milk to make them fluffy
 
 Serving
 - Place pancakes in half moon shape on plate
