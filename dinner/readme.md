@@ -10,6 +10,7 @@
 -4 Tortillas
 -4 slices of Swiss cheese
 -4 slices of Turkey ham
+-1 sliced tomato
 -1 Avocado
 -Vegetable oil or butter for frying
 
@@ -21,7 +22,7 @@
 
 
 ## Steps for preparation:
-1. Add cheese and Turkey Ham to 1 tortilla
+1. Add cheese and Turkey Ham to 1 tortilla (sliced tomatoes optional)
 2. Put a second tortilla on top of the previous tortilla with the ingredients
 3. Add vegetable oil or butter to pan and heat up on medium heat
 4. And the quesadilla to the frying pan and heat for 3 minutes
