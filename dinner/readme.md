@@ -7,18 +7,18 @@
 -9 minutes
 
 ## Ingredients:
--4 Tortillas
--4 slices of Swiss cheese
--4 slices of Turkey ham
--1 sliced tomato
--1 Avocado
--Vegetable oil or butter for frying
+- 4 Tortillas
+- 4 slices of Swiss cheese
+- 4 slices of Turkey ham
+- 1 sliced tomato
+- 1 Avocado
+- Vegetable oil or butter for frying
 
 ## Equipment needed:
--Spatula
--Frying pan
--Knife
--Plate
+- Spatula
+- Frying pan
+- Knife
+- Plate
 
 
 ## Steps for preparation:
@@ -36,7 +36,7 @@ This should take less than 10 minutes, otherwise you are doing something wrong
 Optional: Serve with sour cream
 
 ### Codemates #
--Fernando Moreno
--Dominic Djannesari
--Sagar Manda
--Casey Smith
+- Fernando Moreno
+- Dominic Djannesari
+- Sagar Manda
+- Casey Smith
